@@ -1,1 +1,1 @@
-# lory.gihub.io
+# lory.github.io
